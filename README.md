@@ -22,21 +22,12 @@ The Real-Time Live Location Tracker is designed to facilitate seamless location 
 - **Bootstrap:** Frontend styling and layout.
 - **jQuery:** Simplifies DOM manipulation and event handling.
 
-## Demo 🎥
+## Screenshots 🎥
 
-[![Watch the video](link_to_thumbnail_image)](link_to_video)
+[![Screenshot 1](./videos-images/Screenshotnpmstart.png)](./videos-images/Screenshotnpmstart.png)
+[![Screenshot 2](./videos-images/Screenshot(linkgenerate).png)](./videos-images/Screenshot(linkgenerate).png)
+[![Screenshot 3](./videos-images/Screenshot(sharinglink).png)](./videos-images/Screenshot(sharinglink).png)
 
-[![Screenshot 1](image1_link)](image1_link)
-[![Screenshot 2](image2_link)](image2_link)
-[![Screenshot 3](image3_link)](image3_link)
-
-## Use Case Diagram 📊
-
-![Use Case Diagram](use_case_diagram.png)
-
-## Class Diagram 📑
-
-![Class Diagram](class_diagram.png)
 
 ## Functionalities 🛠️
 
